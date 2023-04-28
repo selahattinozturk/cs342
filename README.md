@@ -1,1 +1,1 @@
-# cs342 Project & Homeworks
+# CS342 Project & Homeworks
