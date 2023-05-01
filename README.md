@@ -1,1 +1,1 @@
-# CS342 Spring 2023 Project & Homeworks
+# CS342 Spring 2023 Projects & Homeworks
