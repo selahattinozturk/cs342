@@ -1,4 +1,1 @@
-Selahattin Cem Öztürk
-21802856
-CS342-2
-Project 2
+CS342 Project 2
