@@ -8,4 +8,3 @@ proctopk: proctopk.c
 
 clean: 
 	rm -fr *~ proctopk threadtopk
-korpe@ubuntu:~/x$ ls
